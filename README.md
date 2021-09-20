@@ -1,1 +1,1 @@
-# MealsRater_API_Django
+# Meals Rater API Django
